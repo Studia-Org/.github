@@ -12,8 +12,5 @@ project.
 
 We appreciate your interest in contributing to our organization on GitHub. However, at this time, we regret to inform that we do not accept external code contributions. Nevertheless, we welcome your feedback, bug reports, and issue submissions to improve our projects! 
 
-### 🍿 Fun fact
- 
-This project takes the baton from the thesis work done by @topiksit0, you can check previous work here 👉
 
 
